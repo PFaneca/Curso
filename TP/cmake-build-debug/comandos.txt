@@ -1,0 +1,3 @@
+znova 1 1
+cnovo 1 s temperatura
+ola
